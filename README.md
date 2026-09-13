@@ -27,17 +27,14 @@ The main goal of this project is to explore the dataset, clean and analyze the d
 
 ```text
 Ecommerce-Data-Analysis/
-│
-├── 📓 analysis.ipynb
-│
-├── 📁 data/
+├── notebook/
+│   └── analysis.ipynb
+├── data/
 │   └── data.csv
-│
-├── 📄 README.md
-│
-└── 📄 requirements.txt
-```
-
+├── images/
+├── README.md
+├── requirements.txt
+└── .gitignore
 ---
 
 ## 🛠️ Technologies Used
